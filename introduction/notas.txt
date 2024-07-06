@@ -1,0 +1,10 @@
+Linux(Sistema Operacional do computador)
+
+Kernel -> é um software responsável por executar programas dentro do linux.
+- Detecta e prepara o hardware
+- Gerenciar os processos.
+- Gerenciar a memória.
+- Fornecer as interfaces gráficas para o usuario.
+- Controlar os sistemas de arquivos.
+- Proporciona o acesso e autenticaçao de usuario.
+- Oferecer os utilitários adminstrativos.
